@@ -1,0 +1,15 @@
+C:\Users\roman.i\Desktop\домашка с#\Praktika\EXAMPLES\EXAMPLES\Example008_IntroM\bin\Debug\net6.0\Example008_IntroM.exe
+C:\Users\roman.i\Desktop\домашка с#\Praktika\EXAMPLES\EXAMPLES\Example008_IntroM\bin\Debug\net6.0\Example008_IntroM.deps.json
+C:\Users\roman.i\Desktop\домашка с#\Praktika\EXAMPLES\EXAMPLES\Example008_IntroM\bin\Debug\net6.0\Example008_IntroM.runtimeconfig.json
+C:\Users\roman.i\Desktop\домашка с#\Praktika\EXAMPLES\EXAMPLES\Example008_IntroM\bin\Debug\net6.0\Example008_IntroM.dll
+C:\Users\roman.i\Desktop\домашка с#\Praktika\EXAMPLES\EXAMPLES\Example008_IntroM\bin\Debug\net6.0\Example008_IntroM.pdb
+C:\Users\roman.i\Desktop\домашка с#\Praktika\EXAMPLES\EXAMPLES\Example008_IntroM\obj\Debug\net6.0\Example008_IntroM.csproj.AssemblyReference.cache
+C:\Users\roman.i\Desktop\домашка с#\Praktika\EXAMPLES\EXAMPLES\Example008_IntroM\obj\Debug\net6.0\Example008_IntroM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roman.i\Desktop\домашка с#\Praktika\EXAMPLES\EXAMPLES\Example008_IntroM\obj\Debug\net6.0\Example008_IntroM.AssemblyInfoInputs.cache
+C:\Users\roman.i\Desktop\домашка с#\Praktika\EXAMPLES\EXAMPLES\Example008_IntroM\obj\Debug\net6.0\Example008_IntroM.AssemblyInfo.cs
+C:\Users\roman.i\Desktop\домашка с#\Praktika\EXAMPLES\EXAMPLES\Example008_IntroM\obj\Debug\net6.0\Example008_IntroM.csproj.CoreCompileInputs.cache
+C:\Users\roman.i\Desktop\домашка с#\Praktika\EXAMPLES\EXAMPLES\Example008_IntroM\obj\Debug\net6.0\Example008_IntroM.dll
+C:\Users\roman.i\Desktop\домашка с#\Praktika\EXAMPLES\EXAMPLES\Example008_IntroM\obj\Debug\net6.0\refint\Example008_IntroM.dll
+C:\Users\roman.i\Desktop\домашка с#\Praktika\EXAMPLES\EXAMPLES\Example008_IntroM\obj\Debug\net6.0\Example008_IntroM.pdb
+C:\Users\roman.i\Desktop\домашка с#\Praktika\EXAMPLES\EXAMPLES\Example008_IntroM\obj\Debug\net6.0\Example008_IntroM.genruntimeconfig.cache
+C:\Users\roman.i\Desktop\домашка с#\Praktika\EXAMPLES\EXAMPLES\Example008_IntroM\obj\Debug\net6.0\ref\Example008_IntroM.dll
