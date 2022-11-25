@@ -1,0 +1,15 @@
+C:\Users\roman.i\Desktop\домашка с#\Praktika\EXAMPLES\EXAMPLES\Example010_Metod\bin\Debug\net6.0\Example010_Metod.exe
+C:\Users\roman.i\Desktop\домашка с#\Praktika\EXAMPLES\EXAMPLES\Example010_Metod\bin\Debug\net6.0\Example010_Metod.deps.json
+C:\Users\roman.i\Desktop\домашка с#\Praktika\EXAMPLES\EXAMPLES\Example010_Metod\bin\Debug\net6.0\Example010_Metod.runtimeconfig.json
+C:\Users\roman.i\Desktop\домашка с#\Praktika\EXAMPLES\EXAMPLES\Example010_Metod\bin\Debug\net6.0\Example010_Metod.dll
+C:\Users\roman.i\Desktop\домашка с#\Praktika\EXAMPLES\EXAMPLES\Example010_Metod\bin\Debug\net6.0\Example010_Metod.pdb
+C:\Users\roman.i\Desktop\домашка с#\Praktika\EXAMPLES\EXAMPLES\Example010_Metod\obj\Debug\net6.0\Example010_Metod.csproj.AssemblyReference.cache
+C:\Users\roman.i\Desktop\домашка с#\Praktika\EXAMPLES\EXAMPLES\Example010_Metod\obj\Debug\net6.0\Example010_Metod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roman.i\Desktop\домашка с#\Praktika\EXAMPLES\EXAMPLES\Example010_Metod\obj\Debug\net6.0\Example010_Metod.AssemblyInfoInputs.cache
+C:\Users\roman.i\Desktop\домашка с#\Praktika\EXAMPLES\EXAMPLES\Example010_Metod\obj\Debug\net6.0\Example010_Metod.AssemblyInfo.cs
+C:\Users\roman.i\Desktop\домашка с#\Praktika\EXAMPLES\EXAMPLES\Example010_Metod\obj\Debug\net6.0\Example010_Metod.csproj.CoreCompileInputs.cache
+C:\Users\roman.i\Desktop\домашка с#\Praktika\EXAMPLES\EXAMPLES\Example010_Metod\obj\Debug\net6.0\Example010_Metod.dll
+C:\Users\roman.i\Desktop\домашка с#\Praktika\EXAMPLES\EXAMPLES\Example010_Metod\obj\Debug\net6.0\refint\Example010_Metod.dll
+C:\Users\roman.i\Desktop\домашка с#\Praktika\EXAMPLES\EXAMPLES\Example010_Metod\obj\Debug\net6.0\Example010_Metod.pdb
+C:\Users\roman.i\Desktop\домашка с#\Praktika\EXAMPLES\EXAMPLES\Example010_Metod\obj\Debug\net6.0\Example010_Metod.genruntimeconfig.cache
+C:\Users\roman.i\Desktop\домашка с#\Praktika\EXAMPLES\EXAMPLES\Example010_Metod\obj\Debug\net6.0\ref\Example010_Metod.dll
