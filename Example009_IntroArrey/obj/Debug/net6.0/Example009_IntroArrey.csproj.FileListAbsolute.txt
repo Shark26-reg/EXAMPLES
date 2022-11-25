@@ -1,0 +1,15 @@
+C:\Users\roman.i\Desktop\домашка с#\Praktika\EXAMPLES\EXAMPLES\Example009_IntroArrey\bin\Debug\net6.0\Example009_IntroArrey.exe
+C:\Users\roman.i\Desktop\домашка с#\Praktika\EXAMPLES\EXAMPLES\Example009_IntroArrey\bin\Debug\net6.0\Example009_IntroArrey.deps.json
+C:\Users\roman.i\Desktop\домашка с#\Praktika\EXAMPLES\EXAMPLES\Example009_IntroArrey\bin\Debug\net6.0\Example009_IntroArrey.runtimeconfig.json
+C:\Users\roman.i\Desktop\домашка с#\Praktika\EXAMPLES\EXAMPLES\Example009_IntroArrey\bin\Debug\net6.0\Example009_IntroArrey.dll
+C:\Users\roman.i\Desktop\домашка с#\Praktika\EXAMPLES\EXAMPLES\Example009_IntroArrey\bin\Debug\net6.0\Example009_IntroArrey.pdb
+C:\Users\roman.i\Desktop\домашка с#\Praktika\EXAMPLES\EXAMPLES\Example009_IntroArrey\obj\Debug\net6.0\Example009_IntroArrey.csproj.AssemblyReference.cache
+C:\Users\roman.i\Desktop\домашка с#\Praktika\EXAMPLES\EXAMPLES\Example009_IntroArrey\obj\Debug\net6.0\Example009_IntroArrey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roman.i\Desktop\домашка с#\Praktika\EXAMPLES\EXAMPLES\Example009_IntroArrey\obj\Debug\net6.0\Example009_IntroArrey.AssemblyInfoInputs.cache
+C:\Users\roman.i\Desktop\домашка с#\Praktika\EXAMPLES\EXAMPLES\Example009_IntroArrey\obj\Debug\net6.0\Example009_IntroArrey.AssemblyInfo.cs
+C:\Users\roman.i\Desktop\домашка с#\Praktika\EXAMPLES\EXAMPLES\Example009_IntroArrey\obj\Debug\net6.0\Example009_IntroArrey.csproj.CoreCompileInputs.cache
+C:\Users\roman.i\Desktop\домашка с#\Praktika\EXAMPLES\EXAMPLES\Example009_IntroArrey\obj\Debug\net6.0\Example009_IntroArrey.dll
+C:\Users\roman.i\Desktop\домашка с#\Praktika\EXAMPLES\EXAMPLES\Example009_IntroArrey\obj\Debug\net6.0\refint\Example009_IntroArrey.dll
+C:\Users\roman.i\Desktop\домашка с#\Praktika\EXAMPLES\EXAMPLES\Example009_IntroArrey\obj\Debug\net6.0\Example009_IntroArrey.pdb
+C:\Users\roman.i\Desktop\домашка с#\Praktika\EXAMPLES\EXAMPLES\Example009_IntroArrey\obj\Debug\net6.0\Example009_IntroArrey.genruntimeconfig.cache
+C:\Users\roman.i\Desktop\домашка с#\Praktika\EXAMPLES\EXAMPLES\Example009_IntroArrey\obj\Debug\net6.0\ref\Example009_IntroArrey.dll
